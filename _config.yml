@@ -2,7 +2,7 @@
 title: Numy
 email: info@numy.io
 description: A simple blog.
-baseurl: "/zetsu"
+baseurl: "/blog"
 url: "http://numyio.github.io"
 
 author:
@@ -12,8 +12,8 @@ author:
   facebook : http://facebook.com/numyio
   twitter  : http://twitter.com/numyio
 
-github: https://github.com/numyio/zetsu
-disqus_shortname: "https-numyio-github-io-zetsu"
+github: https://github.com/numyio
+disqus_shortname: "https-numyio-github-io-blog"
 google_analytics: # UA-52446115-1
 
 paginate: 2
