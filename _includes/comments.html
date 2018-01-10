@@ -8,11 +8,13 @@
     <div id="disqus_thread"></div>
 
     <script type="text/javascript">
+      console.log("I am loading");
       var disqus_shortname = '{{ site.disqus_shortname }}';
       var disqus_identifier = '{{ page.id }}';
       var disqus_title = '{{ page.title }}';
+      console.log("I am loading2");
+
       var disqus_url = '{{site.url}}{{ page.url | prepend: site.baseurl }}';
-      // var disqus_url = '{{ site.url }}{{ post.url }}';
       console.log("Nothing???? {{site.url}}{{ page.url | prepend: site.baseurl }}");
       /*var disqus_developer = 1;*/
 
