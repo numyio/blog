@@ -1,7 +1,7 @@
 # Site settings
 title: Numy
 email: info@numy.io
-description: A simple blog.
+description: A tech thing.
 baseurl: "/blog"
 url: "http://numyio.github.io"
 
