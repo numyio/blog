@@ -2,13 +2,13 @@
 title: Numy
 email: info@numy.io
 description: A simple blog.
-baseurl: "/"
-url: "http://numy.io"
+baseurl: "/zetsu"
+url: "http://numyio.github.io"
 
 author:
   name     : 'Numy Media'
   email    : info@numy.io
-  url      : http://numy.io
+  url      : http://numyio.github.io
   facebook : http://facebook.com/numyio
   twitter  : http://twitter.com/numyio
 
