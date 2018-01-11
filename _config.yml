@@ -2,7 +2,7 @@
 title: Numy
 email: info@numy.io
 description: A tech thing.
-baseurl: ""
+baseurl: "/blog"
 url: "http://numyio.github.io"
 
 author:
