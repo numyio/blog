@@ -38,7 +38,7 @@
 //
 // Site header
 .header {
-  background: #292929 url(../images/cover.jpg) no-repeat 50% 0px;
+  background: #292929 url(../images/cover2.jpeg) no-repeat 50% 0px;
   @include background-size(cover);
   border-bottom: 1px solid $gray-color-light;
   border-top: 3px solid $primary-color;
@@ -240,6 +240,9 @@
   li:first-child {
     margin-right: 5px;
   }
+  li:nth-child(2) {
+    margin-right: 5px;
+  }
 
   ul {
     margin: 0;
@@ -283,6 +286,10 @@
     color: #fff;
   }
   a:hover i.fa-twitter {
+    background-color: #00ABEC;
+    color: #fff;
+  }
+  a:hover i.fa-linkedin {
     background-color: #00ABEC;
     color: #fff;
   }

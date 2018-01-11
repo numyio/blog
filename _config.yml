@@ -2,7 +2,7 @@
 title: Numy
 email: info@numy.io
 description: A tech thing.
-baseurl: "/blog"
+baseurl: ""
 url: "http://numyio.github.io"
 
 author:
@@ -11,6 +11,8 @@ author:
   url      : http://numyio.github.io
   facebook : http://facebook.com/numyio
   twitter  : http://twitter.com/numyio
+  linkedin : http://linkedin.com/numyio
+
 
 github: https://github.com/numyio
 disqus_shortname: "numy-blog"
